@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Telecom ETL Process", "Telecom ETL Process.dtproj", "{B1F1235E-D257-47CA-BC2B-6C5B21D3FB4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1F1235E-D257-47CA-BC2B-6C5B21D3FB4C}.Development|Default.ActiveCfg = Development
+		{B1F1235E-D257-47CA-BC2B-6C5B21D3FB4C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31A0CA10-9925-47BE-AF54-339B415629B9}
+	EndGlobalSection
+EndGlobal
